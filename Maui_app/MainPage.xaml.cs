@@ -11,6 +11,7 @@
 
         private void OnCounterClicked(object sender, EventArgs e)
         {
+            //soy freddy
             count++;
 
             if (count == 1)
