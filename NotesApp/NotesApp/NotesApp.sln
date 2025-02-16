@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp", "NotesApp\NotesApp\NotesApp.csproj", "{FDD8E8F1-FEEA-4C0D-8AEF-3CFED55F67A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp.Shared", "NotesApp\NotesApp.Shared\NotesApp.Shared.csproj", "{C526E344-CD7E-4B53-A295-9E61F75CEAAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotesApp.Web", "NotesApp\NotesApp.Web\NotesApp.Web.csproj", "{52A9CD66-9EFD-4BF6-A766-CFFD5D869363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD8E8F1-FEEA-4C0D-8AEF-3CFED55F67A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD8E8F1-FEEA-4C0D-8AEF-3CFED55F67A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD8E8F1-FEEA-4C0D-8AEF-3CFED55F67A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD8E8F1-FEEA-4C0D-8AEF-3CFED55F67A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C526E344-CD7E-4B53-A295-9E61F75CEAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C526E344-CD7E-4B53-A295-9E61F75CEAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C526E344-CD7E-4B53-A295-9E61F75CEAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C526E344-CD7E-4B53-A295-9E61F75CEAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A9CD66-9EFD-4BF6-A766-CFFD5D869363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A9CD66-9EFD-4BF6-A766-CFFD5D869363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A9CD66-9EFD-4BF6-A766-CFFD5D869363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A9CD66-9EFD-4BF6-A766-CFFD5D869363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
